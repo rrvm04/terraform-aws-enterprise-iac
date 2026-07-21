@@ -1,4 +1,4 @@
-aws_region = "ap-south-1"
+aws_region   = "ap-south-1"
 project_name = "enterprise"
-environment = "dev"
-vpc_cidr = "10.0.0.0/16"
+environment  = "dev"
+vpc_cidr     = "10.0.0.0/16"
